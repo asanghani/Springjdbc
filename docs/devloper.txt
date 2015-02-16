@@ -1,0 +1,3 @@
+Follow video in video folder to create dynamicweb-maven project.
+Create package for model,controller,service,dao layer.
+Inside web.xml write tag about application-context.xml
